@@ -23,7 +23,7 @@ Make sure that the appearnce of @templates/terms.html matches with websites them
 
 
 
-#4.
+# 4.
 Do the same as you did for the terms and conditions page but now for the Privacy Policy
 
 1. Add a new route in [@app.py](http://app.py/):
@@ -36,3 +36,8 @@ Match the style of terms.html.
 3. In @templates/landing.html, update the "Privacy Policy" footer link href from "#" to "/privacy".
 
 4. Make sure the appearance looks like the website's theme
+
+
+# 5. 
+Modify only the hero section in @templates/landing.html and @static/css/style.css to match the image @images/hero_update.jpg.
+Don't touch any other part of the page.
