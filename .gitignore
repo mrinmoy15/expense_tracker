@@ -155,3 +155,4 @@ expense_tracker.db
 
 # claude related
 .claude/settings.local.json
+CLAUDE.local.md
