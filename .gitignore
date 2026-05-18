@@ -150,7 +150,7 @@ cython_debug/
 .DS_Store
 
 # Project-specific
-expense_tracker.db
+spendly.db
 .claude/plans/
 
 # claude related
